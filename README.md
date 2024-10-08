@@ -18,11 +18,7 @@ The **Reddit Sentiment Analysis** project aims to analyze user sentiment in comm
 
 To get started, follow these steps:
 
-1. **Install Dependencies**: Ensure you have Python installed, then run the following command to install the required libraries:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+1. **Install Dependencies**: Ensure you have Python installed, then install the required libraries-
 
    The required libraries include:
    - `requests`
